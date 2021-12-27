@@ -1,5 +1,4 @@
 /*--------------------------------------------------------
-
 1. Kyle Arick Kassen / Date: June 20, 2021 - June 27, 2021
 2. Citations/References: Professor Clark Elliott, DePaul University
 ----------------------------------------------------------*/
